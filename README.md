@@ -1,2 +1,2 @@
-# NavTrace-
+# NavTrace
 Projeto - Tópicos Integradores
